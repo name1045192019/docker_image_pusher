@@ -5,3 +5,4 @@ mariadb:10.6
 redis:6.2-alpine
 ghcr.io/linkwarden/linkwarden:latest
 linuxserver/calibre-web
+lscr.io/linuxserver/calibre-web:latest
